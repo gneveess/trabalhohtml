@@ -2,7 +2,17 @@ function verificar(){
 
 let placa = document.getElementById("placa").value.toUpperCase()
 
-if(placa == "ABC1D23"){
+
+
+
+
+
+
+
+
+
+
+if(placa == "12345"){
 document.getElementById("resultado").innerHTML =
 "✅ Seu veículo está pronto para retirada!"
 }
